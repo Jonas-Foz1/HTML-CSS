@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1be9c88d1c445acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc3eece25a821676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad38b12b280b038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 3/Cap 18 - Git e Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cap 18 - Git e Github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b79f7b40f6a6d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ed594e58575d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d210a1d54ba3b77a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d720ed1625eeecf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "942a2761d32a5b54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6082a3a818903a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f614600b0db1ebec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61b2063a3a9955e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Módulo 1/Capítulo 3/C3.A2 - Front-end, Back-end e Full stack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C3.A2 - Front-end, Back-end e Full stack"
+            }
+          },
+          {
+            "id": "7774bc9e503adc8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Módulo 1/Capítulo 3/C3.A2 - Front-end, Back-end e Full stack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C3.A2 - Front-end, Back-end e Full stack"
+            }
+          },
+          {
+            "id": "24d4d63fbdbb1803",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e7998432a4e90c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1c6af79bd4acbfc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Módulo 1/Capítulo 3/C3.A2 - Front-end, Back-end e Full stack.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C3.A2 - Front-end, Back-end e Full stack"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2ad38b12b280b038",
+  "lastOpenFiles": [
+    "Pasted image 20260518185916.png",
+    "Módulo 2/Pasted image 20260505205521.png",
+    "Módulo 3/Cap 18 - Git e Github.md",
+    "Módulo 3",
+    "Módulo 2/Cap 17 - Projeto de Site.md",
+    "Módulo 1/Capítulo 12 - Estilos CSS/C12 - Estilos CSS.md",
+    "Módulo 2/Cap 16 - Modelo de Caixas.md",
+    "Módulo 2/Pasted image 20260430200241.png",
+    "Módulo 1/Capítulo 5 - Parágrafos e Símbolos/C5.A2 - Símbolos e Emoji no seu site.md",
+    "Módulo 2/Cap 15 - Ids e Classes.md",
+    "Módulo 2/Cap 14 - Tipografia e fontes.md",
+    "Módulo 2/Cap 13 - Cores em CSS.md",
+    "Módulo 1/Capítulo 9 - Listas/C9.A1 - Lista OL e UL.md",
+    "Módulo 1/Capítulo 11 - Mídias/C11 - Imagens Dinâmicas e Mídias.md",
+    "Módulo 1/Capítulo 6 - Imagens/C6.A5 - Como mudar o favicon de um site.md",
+    "Módulo 1/Capítulo 6 - Imagens/C6.A4 - A tag img em HTML5.md",
+    "Módulo 1/Capítulo 6 - Imagens/C6.A3 - O Tamanho das Imagens importa para um site.md",
+    "Módulo 1/Capítulo 6 - Imagens/C6.A2 - Formatos de Imagem para Web.md",
+    "Módulo 1/Capítulo 6 - Imagens/C6.A1 - Direito de imagem.md",
+    "Módulo 1/Capítulo 2 - Domínio e Hospedagem/C2.A2 - O que é domínio e Hospedagem.md",
+    "Untitled.base",
+    "Módulo 2",
+    "Módulo 1/Capítulo 2 - Domínio e Hospedagem/Pasted image 20260330192839.png",
+    "Módulo 1/Capítulo 3 - Definições/C3.A1 - A Diferença entre HTML, CSS e JavaScript.md",
+    "Módulo 1/Capítulo 12 - Estilos CSS",
+    "Módulo 1/Capítulo 8 - Formatações/C8.A4 - Citações e Códigos.md",
+    "Módulo 1/Capítulo 11 - Mídias",
+    "10 - Ligações em toda parte.pdf",
+    "Módulo 1/Capítulo 5 - Parágrafos e Símbolos/C5.A1 - Parágrafos e Quebras.md",
+    "Módulo 1/Capítulo 4 - Ferramentas/C4.A2 - Primeiro código HTML.md",
+    "Módulo 1/Capítulo 8 - Formatações/C8.A3 - Formatações Adicionais.md",
+    "Módulo 1/Capítulo 8 - Formatações/C8.A2 - Negrito e Itálico do jeito certo.md",
+    "Módulo 1/Capítulo 8 - Formatações/C8.A1 - Semântica na HTML5 é importante.md",
+    "Módulo 1/Capítulo 10 - Links/C10 - Links e Âncoras em HTML5.md",
+    "Módulo 1/Capítulo 10 - Links",
+    "Módulo 1/Capítulo 9 - Listas/C9.A2 - Listas Mistas e de Definições.md",
+    "Módulo 1/Capítulo 9 - Listas",
+    "Módulo 1/Capítulo 8 - Formatações",
+    "Módulo 1/Capítulo 7 - Títulos",
+    "Módulo 1/Capítulo 6 - Imagens/Imagens/ETEC PV Logo - 200.png",
+    "Módulo 1/Capítulo 6 - Imagens/Imagens/ETEC PV Logo - Full.png",
+    "Módulo 1/Capítulo 6/Imagens/ETEC PV - Full.png",
+    "Módulo 1/Capítulo 6/Imagens/etec_presidente_vargas.png",
+    "Módulo 1/Capítulo 6 - Imagens/Imagens/Paisagem-Full.jpg",
+    "Módulo 1/Capítulo 6 - Imagens/Imagens/Paisagem-650.jpg",
+    "Módulo 1/Capítulo 6 - Imagens/Imagens/Paisagem-1200.jpg"
+  ]
+}

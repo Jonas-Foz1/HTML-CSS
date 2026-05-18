@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+           /*
+           Medidas Absolutas
+           cm, mm, in, px, pt, pc
+
+           Medidas Relativas
+           em, ex, rem, vw, vh, %
+           16px geralmente é igual a 1em
+           */
+            font-size: 1.5em;
+        }
+
+        h1 {
+            /* shorthand font
+            font-style > font-weight > font-size > font-family
+
+            font-family: 'Work Sans', sans-serif;
+            font-weight: bolder;
+            font-size: 3em;
+            font-style: italic;
+            */
+            font: italic bolder 3em 'Work Sans', sans-serif;
+        }
+
+        h2 {
+            /* não precisa colocar todos os atributos, mas precisa respeitar a ordem*/
+            font: bold 2em 'Work Sans'
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com fontes</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt eius a atque necessitatibus consequuntur impedit repudiandae rerum repellendus! Consectetur dolor quos totam magnam molestias itaque quidem? Quidem officia odit facilis! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse cupiditate modi est quos totam eum accusantium! Ut sed maiores modi saepe, laboriosam consectetur. Cupiditate, accusamus dolor vel voluptatem minus dicta! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates deleniti dolor dicta, necessitatibus ducimus numquam. Quaerat reprehenderit, velit nisi qui nulla incidunt consectetur dolorum officia, quod nam doloribus ratione dolorem?</p>
+    <h2>Subtítulo do exercício</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt cum reprehenderit voluptatibus impedit inventore earum magni hic voluptate commodi quod minus maiores dolor est ipsum, nobis fugiat quaerat alias harum.</p>
+
+</body>
+</html>
