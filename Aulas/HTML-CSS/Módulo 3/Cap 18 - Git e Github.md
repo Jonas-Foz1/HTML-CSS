@@ -22,4 +22,5 @@
 - depois disso, basta clicar em PUBLISH para subir o repositorio para o github remoto
 
 ### Gerenciando Repositórios no Github
-- 
+- é possivel acessar o repositorio abrindo ele com o CODE na pag inicial
+- sempre que houver uma mudança em algum arquivo do repositorio, o github vai sinalizar e perguntar se vc quer subir essa mudança na main (commit to main)
