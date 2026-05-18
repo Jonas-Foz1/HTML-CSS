@@ -19,4 +19,7 @@
 	- usar imagem do print como ref
 - ![[Pasted image 20260518185916.png|675]]
 - o Github vai criar uma serie de arquivos e pastas para organizar o repositorio LOCAL
+- depois disso, basta clicar em PUBLISH para subir o repositorio para o github remoto
+
+### Gerenciando Repositórios no Github
 - 
