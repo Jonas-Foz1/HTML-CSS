@@ -49,4 +49,55 @@
 - ATENÇÃO - cuidado com Caps LOCK e acentos
 - dentro do README, é possivel colocar links usando a tag (a)
 - com isso, pode referenciar exercicios ou desafios especificos
-- 
+- Como rodar o site do DESAFIO 10
+	- Ir na pasta do desafio
+	- copiar os arquivos do site (pastas e arquivo .html)
+	- no github, criar novo repositorio
+	- deixar ele publico
+	- na pasta criada pelo github, colar os arquivos do site
+	- renomear o .html para index.html
+	- no Github online, fazer o processo de criar o site dos passos anteriores
+	- https://jonas-foz1.github.io/projeto-android/
+	- esse link pode ser compartilhado com qualquer usuario em qualqquer dispositivo
+	- tambem pode criar um QR code desse link em algum QR code generator
+	- LIMITAÇÃO - GitHub pages só serve para HTML, CSS e JAVASCRIPT
+		- caso queira adicionar algo alem disso, precisa pagar
+
+# Manutenção de sites no GitHub
+- no futuro, vamos ver que não é correto mexer na branch MAIN / MASTER
+- sempre que precisar ajustar algum site, seguir o seguinte passo a passo:
+	- abrir github desktop
+	- ir no repositorio do site
+	- abrir o codigo com code e a pasta com explorer
+	- ajustar o codigo - verificar se a alteração ja está feita no local
+	- confirmado o ajuste, fazer o commit dos ajustes no github
+	- fazer o push para o site no ar pelo github desktop
+- no github desktop, é possivel ver o que foi apagado e adicionado
+
+### Recursos Sociais do GitHub
+- é possivel buscar pessoas e repositorios na aba principal do GitHub
+- pode seguir repositorio, acompanhar, favoritar, fork, etc
+- em um repositorio, é possivel abrir um Issue, ver issues antigos, issues em aberto
+
+### Clonando Repositórios
+- em qualquer repositorio, basta clicar no botao verde e depois abrir usando github desktop ou baixar o ZIP
+- se abrir com github, basta selecionar diretorio onde vai salvar o repositorio
+- clonagem vai ser feita
+- com isso é possivel abrir os codigos usando code e ver tudo
+
+### Github em varios PCs
+- se estiver fora do meu PC, como faria para trabalhar com GitHub?
+- pre requisitos
+	- navegador
+	- VS Code
+	- Git e Github desktop
+- logar no github desktop para acessar seus repositorios
+- escolher o repositorio para trabalhar e clonar
+- salvar em um diretorio especifico
+- abrir com VS Code
+- com isso, ja é possivel fazer alterações, commits e push
+- para deslogar, remover o repositorio local
+- dar sign out no github
+- apagar as infos do git
+- limpar a lixeira
+- DICA: para deixar o github mais seguro, buscar algum video com instruções de 2FA, medidas de segurança, etc
